@@ -1,0 +1,2678 @@
+fileFormatVersion: 2
+guid: cb8c42bf3de48c346aaf5d81ba58946d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7092045150068134298
+    second: game2048_0
+  - first:
+      213: 2721104956151721243
+    second: game2048_1
+  - first:
+      213: 5141499508411508587
+    second: game2048_2
+  - first:
+      213: -5231327407061380861
+    second: game2048_3
+  - first:
+      213: -2563084545681019941
+    second: game2048_4
+  - first:
+      213: 5951530350835043039
+    second: game2048_5
+  - first:
+      213: -5845256907735206541
+    second: game2048_6
+  - first:
+      213: -463817785586158106
+    second: game2048_7
+  - first:
+      213: 9044469752202093398
+    second: game2048_8
+  - first:
+      213: 8210708631364638962
+    second: game2048_9
+  - first:
+      213: -7676049699494292925
+    second: game2048_10
+  - first:
+      213: -6071053086319171969
+    second: game2048_11
+  - first:
+      213: -2263088066140132155
+    second: game2048_12
+  - first:
+      213: -9003284206171452819
+    second: game2048_13
+  - first:
+      213: -3177687073897410383
+    second: game2048_14
+  - first:
+      213: 1150819584878446709
+    second: game2048_15
+  - first:
+      213: 5933026972445967951
+    second: game2048_16
+  - first:
+      213: -4102524800872775567
+    second: game2048_17
+  - first:
+      213: -3957954036878415640
+    second: game2048_18
+  - first:
+      213: 303507442470744788
+    second: game2048_19
+  - first:
+      213: -7587191353059443813
+    second: game2048_20
+  - first:
+      213: 5901347764880301595
+    second: game2048_21
+  - first:
+      213: -7937533584481185568
+    second: game2048_22
+  - first:
+      213: 7189856187969446326
+    second: game2048_23
+  - first:
+      213: -1284545797584197160
+    second: game2048_24
+  - first:
+      213: -7331710327899190733
+    second: game2048_25
+  - first:
+      213: -7196216114824576907
+    second: game2048_26
+  - first:
+      213: -7890928313832617168
+    second: game2048_27
+  - first:
+      213: -5522095321704689146
+    second: game2048_28
+  - first:
+      213: 675235465906624202
+    second: game2048_29
+  - first:
+      213: 5049711968145226376
+    second: game2048_30
+  - first:
+      213: -1524865527269355821
+    second: game2048_31
+  - first:
+      213: 7257828868326269469
+    second: game2048_32
+  - first:
+      213: 3282700791114117909
+    second: game2048_33
+  - first:
+      213: 706638998878983057
+    second: game2048_34
+  - first:
+      213: -684167062466280457
+    second: game2048_35
+  - first:
+      213: 7423971776289955625
+    second: game2048_36
+  - first:
+      213: -8310492012221921421
+    second: game2048_37
+  - first:
+      213: 1566304118667457726
+    second: game2048_38
+  - first:
+      213: 8040506812762233581
+    second: game2048_39
+  - first:
+      213: 4187405589903436840
+    second: game2048_40
+  - first:
+      213: -6772841806998358449
+    second: game2048_41
+  - first:
+      213: -4111390054367008362
+    second: game2048_42
+  - first:
+      213: -3024589384061553200
+    second: game2048_43
+  - first:
+      213: -4230781615829685281
+    second: game2048_44
+  - first:
+      213: -2331937180536173334
+    second: game2048_45
+  - first:
+      213: 3574207671948556865
+    second: game2048_46
+  - first:
+      213: -2771994616018327948
+    second: game2048_47
+  - first:
+      213: 18677229656953238
+    second: game2048_48
+  - first:
+      213: -9060905717764345268
+    second: game2048_49
+  - first:
+      213: -8794545921524156793
+    second: game2048_50
+  - first:
+      213: 8765085570168023395
+    second: game2048_51
+  - first:
+      213: 5948426336589807256
+    second: game2048_52
+  - first:
+      213: -5963385006570083195
+    second: game2048_53
+  - first:
+      213: 5317522223080907458
+    second: game2048_54
+  - first:
+      213: 648318911459899413
+    second: game2048_55
+  - first:
+      213: 7637668689514323521
+    second: game2048_56
+  - first:
+      213: -963111135877116248
+    second: game2048_57
+  - first:
+      213: 8867818968229004765
+    second: game2048_58
+  - first:
+      213: -2231769670317070662
+    second: game2048_59
+  - first:
+      213: 6540483159020621407
+    second: game2048_60
+  - first:
+      213: 6639234577297410176
+    second: game2048_61
+  - first:
+      213: 1294931152453950562
+    second: game2048_62
+  - first:
+      213: 4370622996365831117
+    second: game2048_63
+  - first:
+      213: -815672769046083177
+    second: game2048_64
+  - first:
+      213: -2057144266525280353
+    second: game2048_65
+  - first:
+      213: -4475993798841696756
+    second: game2048_66
+  - first:
+      213: 5250607137052670641
+    second: game2048_67
+  - first:
+      213: 8176475732192502658
+    second: game2048_68
+  - first:
+      213: -8751890677905957355
+    second: game2048_69
+  - first:
+      213: 3305667053683313831
+    second: game2048_70
+  - first:
+      213: 931611555663888373
+    second: game2048_71
+  - first:
+      213: 1896620971743903013
+    second: game2048_72
+  - first:
+      213: -5750618363005383751
+    second: game2048_73
+  - first:
+      213: 6250889143056423181
+    second: game2048_74
+  - first:
+      213: 2799043245171811817
+    second: game2048_75
+  - first:
+      213: -3645382193710681979
+    second: game2048_76
+  - first:
+      213: -5881895214348173607
+    second: game2048_77
+  - first:
+      213: -1207375770444139884
+    second: game2048_78
+  - first:
+      213: -2028238412227305847
+    second: game2048_79
+  - first:
+      213: -2987673256439996039
+    second: game2048_80
+  - first:
+      213: -2748992079765648733
+    second: game2048_81
+  - first:
+      213: -6352375720574048874
+    second: game2048_82
+  - first:
+      213: 1236232239669196636
+    second: game2048_83
+  - first:
+      213: -278805352363484404
+    second: game2048_84
+  - first:
+      213: -2401457382648297790
+    second: game2048_85
+  - first:
+      213: 87114734457502955
+    second: game2048_86
+  - first:
+      213: -8488281638082369742
+    second: game2048_87
+  - first:
+      213: 639937899928227794
+    second: game2048_88
+  - first:
+      213: -6965038437135441537
+    second: game2048_89
+  - first:
+      213: 1463218025290119644
+    second: game2048_90
+  - first:
+      213: -6115209191447324981
+    second: game2048_91
+  - first:
+      213: -7926125313232877688
+    second: game2048_92
+  - first:
+      213: -2439932947218832349
+    second: game2048_93
+  - first:
+      213: 9209463806383236008
+    second: game2048_94
+  - first:
+      213: 1000781007421264899
+    second: game2048_95
+  - first:
+      213: -5087495435545060258
+    second: game2048_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game2048_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 234
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d7dc1d710c6260800000000000000
+      internalID: 7092045150068134298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_1
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 472
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d6af36a8e43c520800000000000000
+      internalID: 2721104956151721243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 471
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67a6b3ef864a5740800000000000000
+      internalID: 5141499508411508587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 472
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3015756a0779667b0800000000000000
+      internalID: -5231327407061380861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 472
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba36d7f281e6cd0800000000000000
+      internalID: -2563084545681019941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 422
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda8a7f4255189250800000000000000
+      internalID: 5951530350835043039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 422
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3757b89dfc971eea0800000000000000
+      internalID: -5845256907735206541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 422
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f0a17e203099f0800000000000000
+      internalID: -463817785586158106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 422
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65365c9e159648d70800000000000000
+      internalID: 9044469752202093398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 440
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f819be7ffb42f170800000000000000
+      internalID: 8210708631364638962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 376
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342166fb771397590800000000000000
+      internalID: -7676049699494292925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 376
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76286142694fbba0800000000000000
+      internalID: -6071053086319171969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 376
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccaa4ae465e790e0800000000000000
+      internalID: -2263088066140132155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 376
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a044747b8ed0380800000000000000
+      internalID: -9003284206171452819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 413
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b09ef0417696e3d0800000000000000
+      internalID: -3177687073897410383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 330
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5780e3da05888ff00800000000000000
+      internalID: 1150819584878446709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 330
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46047fc898565250800000000000000
+      internalID: 5933026972445967951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 330
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1708fb10e67e017c0800000000000000
+      internalID: -4102524800872775567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 331
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8e98a06c58219c0800000000000000
+      internalID: -3957954036878415640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 373
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2f72f2966463400800000000000000
+      internalID: 303507442470744788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 373
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bf9fdb9a1e4b690800000000000000
+      internalID: -7587191353059443813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 334
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e5cb5868cc5e150800000000000000
+      internalID: 5901347764880301595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_22
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 334
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e01440824738d190800000000000000
+      internalID: -7937533584481185568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 284
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b120160c1087c360800000000000000
+      internalID: 7189856187969446326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 283
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e54527606c2ee0800000000000000
+      internalID: -1284545797584197160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 307
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a81854d48804a90800000000000000
+      internalID: -7331710327899190733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 307
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57080fc1297e12c90800000000000000
+      internalID: -7196216114824576907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 267
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b4fe9a18acd7290800000000000000
+      internalID: -7890928313832617168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 267
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60212fdef839d53b0800000000000000
+      internalID: -5522095321704689146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 229
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac61c15241bee5900800000000000000
+      internalID: 675235465906624202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_30
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 229
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab55fc74e241640800000000000000
+      internalID: 5049711968145226376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 217
+        width: 59
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0fdcc1e696dae0800000000000000
+      internalID: -1524865527269355821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 217
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12a921f6ecf8b460800000000000000
+      internalID: 7257828868326269469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 217
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513304e1afe7e8d20800000000000000
+      internalID: 3282700791114117909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 217
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1939e90fc6c7ec900800000000000000
+      internalID: 706638998878983057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_35
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 217
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3ccaa7ea95186f0800000000000000
+      internalID: -684167062466280457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 217
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fd9442ffe370760800000000000000
+      internalID: 7423971776289955625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 125
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3778ac6bb833bac80800000000000000
+      internalID: -8310492012221921421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 125
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b76b1c41acb510800000000000000
+      internalID: 1566304118667457726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 133
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea1dc4885e959f60800000000000000
+      internalID: 8040506812762233581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 133
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cedacb237ac1a30800000000000000
+      internalID: 4187405589903436840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46b2f5b2480202a0800000000000000
+      internalID: -6772841806998358449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 54
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6996164578861f6c0800000000000000
+      internalID: -4111390054367008362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 107
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5f79beaff7606d0800000000000000
+      internalID: -3024589384061553200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 107
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe73a398e3945c0800000000000000
+      internalID: -4230781615829685281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 107
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec8d9b4d7b43afd0800000000000000
+      internalID: -2331937180536173334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a38ffc0f22a9130800000000000000
+      internalID: 3574207671948556865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_47
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 113
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476aee85595e789d0800000000000000
+      internalID: -2771994616018327948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_48
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 74
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691571767da524000800000000000000
+      internalID: 18677229656953238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 71
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42b955a142314280800000000000000
+      internalID: -9060905717764345268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78631b2741f73f580800000000000000
+      internalID: -8794545921524156793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 71
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36964cbf2e6d3a970800000000000000
+      internalID: 8765085570168023395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_52
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e730dac3e0d8250800000000000000
+      internalID: 5948426336589807256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_53
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 90
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cef709eeccd3da0800000000000000
+      internalID: -5963385006570083195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_54
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 90
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2abf7d942abc940800000000000000
+      internalID: 5317522223080907458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 68
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5183cb27d9a4ff800800000000000000
+      internalID: 648318911459899413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 96
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14edf9ef4337ef960800000000000000
+      internalID: 7637668689514323521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_57
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 93
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae42d2568752a2f0800000000000000
+      internalID: -963111135877116248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_58
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 92
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5c2cd2e52d01b70800000000000000
+      internalID: 8867818968229004765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 77
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6a24c2f492701e0800000000000000
+      internalID: -2231769670317070662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e49d8b7c674ca50800000000000000
+      internalID: 6540483159020621407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_61
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0888d400cac432c50800000000000000
+      internalID: 6639234577297410176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_62
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cda96b50588f110800000000000000
+      internalID: 1294931152453950562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_63
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbe989657297ac30800000000000000
+      internalID: 4370622996365831117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_64
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7998c0c20f52ea4f0800000000000000
+      internalID: -815672769046083177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_65
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 82
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f977706503e8373e0800000000000000
+      internalID: -2057144266525280353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e7033da5312e1c0800000000000000
+      internalID: -4475993798841696756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_67
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bab72b4f57edd840800000000000000
+      internalID: 5250607137052670641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_68
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 77
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283afeb8b5da87170800000000000000
+      internalID: 8176475732192502658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 68
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51edc564cc90b8680800000000000000
+      internalID: -8751890677905957355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_70
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 66
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac8180dba610ed20800000000000000
+      internalID: 3305667053683313831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_71
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffbef326cfbdec00800000000000000
+      internalID: 931611555663888373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_72
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52df95e99b6225a10800000000000000
+      internalID: 1896620971743903013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_73
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbc9322113b130b0800000000000000
+      internalID: -5750618363005383751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_74
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 68
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0959369e8e9fb650800000000000000
+      internalID: 6250889143056423181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_75
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e52c63600338d620800000000000000
+      internalID: 2799043245171811817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 49
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58037597530096dc0800000000000000
+      internalID: -3645382193710681979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9def4b6577f4f5ea0800000000000000
+      internalID: -5881895214348173607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 49
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492734c322a8e3fe0800000000000000
+      internalID: -1207375770444139884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_79
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 22
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e936ff8ef3ad3e0800000000000000
+      internalID: -2028238412227305847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_80
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 23
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971a5fca007a986d0800000000000000
+      internalID: -2987673256439996039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_81
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 24
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac43ba44e99d9d0800000000000000
+      internalID: -2748992079765648733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_82
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 23
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6952e5f30f3d7d7a0800000000000000
+      internalID: -6352375720574048874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 23
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c573e511caaf72110800000000000000
+      internalID: 1236232239669196636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_84
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 23
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b95ea520c712cf0800000000000000
+      internalID: -278805352363484404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 27
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c64204eb3f4caed0800000000000000
+      internalID: -2401457382648297790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_86
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 27
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becba02b36e753100800000000000000
+      internalID: 87114734457502955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_87
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 27
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23721a0b2d0933a80800000000000000
+      internalID: -8488281638082369742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_88
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 27
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df0883212481e800800000000000000
+      internalID: 639937899928227794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_89
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 39
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71a99b9176375f90800000000000000
+      internalID: -6965038437135441537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_90
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 40
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9bd52aa056e4410800000000000000
+      internalID: 1463218025290119644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_91
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 17
+        width: 106
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc61490e3a9622ba0800000000000000
+      internalID: -6115209191447324981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_92
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 14
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887c583a50fb00290800000000000000
+      internalID: -7926125313232877688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_93
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 14
+        width: 162
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324ef3d69ed932ed0800000000000000
+      internalID: -2439932947218832349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a32a4fb9869ecf70800000000000000
+      internalID: 9209463806383236008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_95
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3045d4d160d73ed00800000000000000
+      internalID: 1000781007421264899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game2048_96
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 8
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c5ae72bd59569b0800000000000000
+      internalID: -5087495435545060258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      game2048_0: 7092045150068134298
+      game2048_1: 2721104956151721243
+      game2048_10: -7676049699494292925
+      game2048_11: -6071053086319171969
+      game2048_12: -2263088066140132155
+      game2048_13: -9003284206171452819
+      game2048_14: -3177687073897410383
+      game2048_15: 1150819584878446709
+      game2048_16: 5933026972445967951
+      game2048_17: -4102524800872775567
+      game2048_18: -3957954036878415640
+      game2048_19: 303507442470744788
+      game2048_2: 5141499508411508587
+      game2048_20: -7587191353059443813
+      game2048_21: 5901347764880301595
+      game2048_22: -7937533584481185568
+      game2048_23: 7189856187969446326
+      game2048_24: -1284545797584197160
+      game2048_25: -7331710327899190733
+      game2048_26: -7196216114824576907
+      game2048_27: -7890928313832617168
+      game2048_28: -5522095321704689146
+      game2048_29: 675235465906624202
+      game2048_3: -5231327407061380861
+      game2048_30: 5049711968145226376
+      game2048_31: -1524865527269355821
+      game2048_32: 7257828868326269469
+      game2048_33: 3282700791114117909
+      game2048_34: 706638998878983057
+      game2048_35: -684167062466280457
+      game2048_36: 7423971776289955625
+      game2048_37: -8310492012221921421
+      game2048_38: 1566304118667457726
+      game2048_39: 8040506812762233581
+      game2048_4: -2563084545681019941
+      game2048_40: 4187405589903436840
+      game2048_41: -6772841806998358449
+      game2048_42: -4111390054367008362
+      game2048_43: -3024589384061553200
+      game2048_44: -4230781615829685281
+      game2048_45: -2331937180536173334
+      game2048_46: 3574207671948556865
+      game2048_47: -2771994616018327948
+      game2048_48: 18677229656953238
+      game2048_49: -9060905717764345268
+      game2048_5: 5951530350835043039
+      game2048_50: -8794545921524156793
+      game2048_51: 8765085570168023395
+      game2048_52: 5948426336589807256
+      game2048_53: -5963385006570083195
+      game2048_54: 5317522223080907458
+      game2048_55: 648318911459899413
+      game2048_56: 7637668689514323521
+      game2048_57: -963111135877116248
+      game2048_58: 8867818968229004765
+      game2048_59: -2231769670317070662
+      game2048_6: -5845256907735206541
+      game2048_60: 6540483159020621407
+      game2048_61: 6639234577297410176
+      game2048_62: 1294931152453950562
+      game2048_63: 4370622996365831117
+      game2048_64: -815672769046083177
+      game2048_65: -2057144266525280353
+      game2048_66: -4475993798841696756
+      game2048_67: 5250607137052670641
+      game2048_68: 8176475732192502658
+      game2048_69: -8751890677905957355
+      game2048_7: -463817785586158106
+      game2048_70: 3305667053683313831
+      game2048_71: 931611555663888373
+      game2048_72: 1896620971743903013
+      game2048_73: -5750618363005383751
+      game2048_74: 6250889143056423181
+      game2048_75: 2799043245171811817
+      game2048_76: -3645382193710681979
+      game2048_77: -5881895214348173607
+      game2048_78: -1207375770444139884
+      game2048_79: -2028238412227305847
+      game2048_8: 9044469752202093398
+      game2048_80: -2987673256439996039
+      game2048_81: -2748992079765648733
+      game2048_82: -6352375720574048874
+      game2048_83: 1236232239669196636
+      game2048_84: -278805352363484404
+      game2048_85: -2401457382648297790
+      game2048_86: 87114734457502955
+      game2048_87: -8488281638082369742
+      game2048_88: 639937899928227794
+      game2048_89: -6965038437135441537
+      game2048_9: 8210708631364638962
+      game2048_90: 1463218025290119644
+      game2048_91: -6115209191447324981
+      game2048_92: -7926125313232877688
+      game2048_93: -2439932947218832349
+      game2048_94: 9209463806383236008
+      game2048_95: 1000781007421264899
+      game2048_96: -5087495435545060258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
